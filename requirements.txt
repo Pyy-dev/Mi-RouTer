@@ -1,0 +1,8 @@
+requests
+re
+time
+random
+hashlib
+argparse
+rich
+pyfiglet
