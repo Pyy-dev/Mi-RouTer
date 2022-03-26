@@ -26,5 +26,5 @@ pip3 install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
 
 将url复制到浏览器当中就ok了
 
-![image-20220326204809968](./README.assets/image-20220326204809968.png)
+![image-20220326211243354](./README.assets/image-20220326211243354.png)
 
